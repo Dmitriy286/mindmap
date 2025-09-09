@@ -1,13 +1,3 @@
-## myLib documentation
-see documentation [here](myLib/README.md)
-
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
-
-
-This is [my linked text].
-
-  [my linked text]: relative/path/in/repo/to/file.txt "Optional title for mouse hover"
-
 @Entity
 public class User {
     @Id
@@ -134,5 +124,6 @@ public interface ProductRepository extends JpaRepository<Product, Long> {
 }
 
 links:
-<a>https://www.baeldung.com/spring-data-jpa-named-entity-graphs</a>
+
+https://www.baeldung.com/spring-data-jpa-named-entity-graphs
 
