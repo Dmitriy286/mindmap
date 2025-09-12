@@ -12,7 +12,7 @@ url: jdbc:cassandra://localhost:9042/spring_cassandra
 
 Далее добавить в этом разделе строку ниже:
 
-![cassandra_idea](/Users/20810029/Desktop/cassandra_idea_1.png)
+![cassandra_idea](/images/cassandra_1.png)
 
   
 
